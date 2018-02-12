@@ -1,12 +1,10 @@
 ---
-layout: page
 title: New to PayPal
-banner-1: /assets/banner-new-to-paypal-1.jpg
-banner-2: /assets/banner-group-legal-coverage-2.jpg
-sidebar-image: /assets/aside-whats-changing.jpg
+layout: page
+banner-1: "/assets/banner-new-to-paypal-1.jpg"
+banner-2: "/assets/banner-group-legal-coverage-2.jpg"
+sidebar-image: "/assets/aside-whats-changing.jpg"
 sidebar-content: sidebar-benefits-contact
-permalink:
-
 ---
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

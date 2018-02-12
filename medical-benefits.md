@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Medical Benefits
-banner-1: /assets/PP_H&W_MedicalBenefits.jpg
-banner-2: /assets/banner-medical-benefits-2.jpg
-sidebar-image: /assets/aside-medical-benefits.jpg
-sidebar-content: sidebar-benefits-contact 
-permalink:
-
+layout: page
+banner-1: "/assets/PP_H&W_MedicalBenefits.jpg"
+banner-2: "/assets/banner-medical-benefits-2.jpg"
+sidebar-image: "/assets/aside-medical-benefits.jpg"
+sidebar-content: sidebar-benefits-contact
 ---
 
 Staying healthy is everyone's priority. You do your part by taking care of yourself, and we provide a variety of valuable medical coverage options to help you protect the health of you and your family. You get to choose which plan best fits your needs and your budget.
