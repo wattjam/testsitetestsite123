@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+
+    <div class="container">
+            <div class="row banner-images">
+                <div class="col-lg-9 col-md-12 no-padding">
+                    <div class="banner-1">{% if page.banner-1 %} <img src="{{ page.banner-1 }}" {% endif %}>
+    <!-- Include your post title, byline, date, and other info inside the header here. -->
+                    </div>
+                </div>
+                <!-- col-md-12 -->
+                <div class="col-lg-3 visible-lg no-padding">
+                    <div class="banner-2">{% if page.banner-2 %} <img src="{{ page.banner-2 }}" {% endif %}>
+    <!-- Include your post title, byline, date, and other info inside the header here. -->
+                    </div>
+                </div>
+                <!-- col-md-3 -->
+            </div>
+      <div class="row" >
+       <div class="col-lg-9 col-md-12">
+          {% include nav-breadcrumbs.html %}
+          {{ content }}
+        </div>
+
+         <div class="col-lg-3 col-md-12 no-padding" id="sidebar">
+           <div class="sidebar-image visible-lg">{% if page.sidebar-image %} <img src="{{ page.sidebar-image }}" {% endif %}></div>
+    <!-- Include your post title, byline, date, and other info inside the header here. -->
+          <div>
+          {% if page.sidebar-content %} {% include sidebar-contact-benefits.html %}
+
+          {% endif %}
+        </div>
+        </div>
+        </div>
+
+
+
+    {% include footer.html %}
+  <a href="#0" class="cd-top"><i class="fa fa-angle-up fa-3x"></i></a>
+  <script src="js/jquery/jquery-1.11.2.min.js"></script>
+  <script src="js/bootstrap/bootstrap.min.js"></script>
+  <script src="js/modernizr.js"></script>
+  <script src="js/custom.js"></script>
+  <script src="js/jquery/jquery.matchHeight.js"></script>
+  <script src="js/event-tracking.js"></script>
+  </body>
+
+</html>

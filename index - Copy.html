@@ -1,0 +1,157 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  
+ <div class="col col-12">
+      <div class="col col-3">
+          <div class="block glass"  style="background-image:url(assets/avatar.jpg)">      
+          </div>
+      </div>
+      <div class="col col-9">
+        <div class="block glass">
+            <div class="block-body">
+                <h2>Yo, I'm Dude Labouwski</h2>
+                <p class="grey-text">Aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus</p>
+            </div>
+        </div>
+      </div>  
+  </div>
+  <div class="col col-12">
+    {% for port in site.data.portfolio %}
+      <div class="col col-{{port.width}}">
+        <div class="block" style="background-image:url(assets/{{port.img}})">
+            <div class="block-body height-{{port.height}}">              
+                <h2 class="align-bottom-right">
+                  {{ port.title }}
+                </h2>
+            </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  <div class="col col-9">
+    {% for post in site.posts %}
+      <div class="col col-{{post.width}}">
+        <div class="block {{post.color}}">
+            <div class="block-body height-{{post.height}}">
+                <span class="post-meta white-text">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                  <a class="post-link white-text" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+            </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+    <div class="col col-3">
+        <div class="block glass">
+            <div class="block-body">
+                <h3 class="margin-bot">Skills</h3>                
+                {% for skill in site.data.skills %}
+                <span class="post-meta white-text">{{skill.descr}}</span>
+                <div class="progress margin-bot"><div class="progress-{{skill.xp}}"></div></div>                
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+ <div id="home-page">
+  <section class="tiles">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-6">
+          <a href="new-to-paypal.html">
+            <div class="panel panel-default tile tile-red-purple">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/icon-new-hire.png" alt="new to paypal"></div>
+                <h1>New to PayPal</h1>
+                <p>Welcome! Find out what you need to do to start enjoying your PayPal benefits.</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <a href="pdf/2018 PayPal Benefits Summary.pdf">
+            <div class="panel panel-default tile tile-dark-blue">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/Document.png" alt="head blub"></div>
+                <h1>2018 Summary of Benefits</h1>
+                <p>Learn about all that your PayPal benefits have to offer. </p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 hidden-sm hidden-xs">
+          <div class="panel panel-default tile tile-video"><img src="assets/icon-play-sm.png" alt="small play button">
+            <a href="http://ah-prod.com/multi/videoplayer/player.html?v=5612449546001" target="_blank">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/icon-play.png" alt="play button"></div>
+                <h1>2018 Benefits Overview</h1>
+                <p>Watch a video about all of your PayPal benefits.</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 hidden-lg hidden-md">
+          <a href="http://ah-prod.com/multi/videoplayer/player.html?v=5612449546001">
+            <div class="panel panel-default tile tile-video-sm">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/icon-play.png" alt="play button"></div>
+                <h1>2018 Benefits Overview</h1>
+                <p>Watch a video about all of your PayPal benefits.</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <a href="medicostestimator18/index.htm" target="_blank">
+            <div class="panel panel-default tile tile-orange-red">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/Scale.png" alt="new to paypal"></div>
+                <h1>Compare Medical Plan Costs</h1>
+                <p>Discover the best plan for you in just a few clicks. </p>
+              </div>          
+            </div>        
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <a href="webinar.html">
+            <div class="panel panel-default tile tile-picture tile-orange-blue">
+              <div class="panel-body">
+                <div class="icon"><img src="assets/icon-everyday.png" alt="new to paypal"></div>
+                <h1>Webinars</h1>
+                <p>Sign up for a webinar to learn more about our newest programs.</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xs-12">
+          <div class="panel panel-default tile title-sky-blue">
+            <div class="panel-body ybr">
+              <h1>Your Benefits Resources (YBR)<br/>844-474-6641</h1>
+              <div class="row your-benefits-box">
+                <div class="col-sm-6 col-xs-12">
+                  <p><strong>On the PayPal network?</strong></p>
+                  <a href="https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE"><img src="assets/on-paypal-screen.png" alt="On the PayPal network">
+                    <p class="margin-top-15">Go direct to YBR.</p>
+                  </a>
+                </div>
+                <div class="col-sm-6 col-xs-12">
+                  <p><strong>Off the PayPal network?</strong></p>
+                  <a href="http://www.ybr.com/benefits/paypal"><img src="assets/off-paypal-globe.png" alt="Off the PayPal network">
+                    <p>You'll need to log on to YBR.</p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
