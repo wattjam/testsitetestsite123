@@ -1,6 +1,6 @@
 ---
-title: My Portfolio
-timezone: UTC
+title: TESTSITE
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -9,9 +9,7 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
-description: 'Jannik Richter, jannik811@gmail.com
-
-'
+description: 
 baseurl: 
 url: http://yourdomain.com
 markdown: kramdown
