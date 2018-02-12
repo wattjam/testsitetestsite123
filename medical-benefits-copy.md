@@ -1,9 +1,9 @@
 ---
 title: BOOMSHAKALA!
 layout: page
-banner-1: /assets/PP_H&W_MedicalBenefits.jpg
-banner-2: /assets/banner-medical-benefits-2.jpg
-sidebar-image: /assets/aside-medical-benefits.jpg
+banner-1: "/assets/PP_H&W_MedicalBenefits.jpg"
+banner-2: "/assets/banner-medical-benefits-2.jpg"
+sidebar-image: "/assets/aside-medical-benefits.jpg"
 sidebar-content: sidebar-benefits-contact
 ---
 
