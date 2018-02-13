@@ -20,8 +20,6 @@ Staying healthy is everyone's priority. You do your part by taking care of yours
 		<div class="panel-body">
 				<div markdown="1">
 
-
-
 There are various medical plan options available to you:
 
  * $300 Deductible
@@ -42,7 +40,7 @@ There are various medical plan options available to you:
 ##### Consumer Directed Health Plan with Health Savings Account (CDHP with HSA)
 
  * The CDHP with HSA is a high-deductible health plan. That means that except for preventive exams, all care (including prescriptions) is subject to the deductible and coinsurance.
- * You have the option to make tax-free contributions to an HSA to pay for qualified medical expenses or save for future medical expenses. The company also makes an annual contribution to the HSA ($450 for individuals or $900 for family). [Learn more about the HSA][headingFour].
+ * You have the option to make tax-free contributions to an HSA to pay for qualified medical expenses or save for future medical expenses. The company also makes an annual contribution to the HSA ($450 for individuals or $900 for family). <a hre="#" style="background-color: #00ff00;">Learn more about the HSA</a>.
  * The deductible applies to all services except preventive care.
  * The entire family must accumulate to the family deductible before any individual reaches coinsurance.
  * This plan costs less out of your paycheck than the $300 Deductible plan.
@@ -61,95 +59,71 @@ In a health maintenance organization (HMO), you and each covered dependent must 
 	* [Arizona: Health Net HMO](https://www.healthnet.com/)
 	* [California: Kaiser HMO](https://healthy.kaiserpermanente.org/)
 	* [Utah: SelectHealth HMO](http://selecthealth.org/Pages/new.aspx)
+   							
+</div>
+</div>
+</div>
+</div>
+		
 
-
-    							
-</div>
-</div>
-</div>
-</div>
-		<div class="panel panel-default panel-accordion">
-				<div class="panel-heading" role="tab" id="headingTwo">
+<div class="panel panel-default panel-accordion">
+		<div class="panel-heading" role="tab" id="headingTwo">
 						<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo"><i class="fa fa-angle-right fa-2x pull-left"></i>
-							<h4 class="panel-title collapsed">Enroll in Your Health and Insurance Benefits — Administered by Your Benefits Resources</h4>
+							<h4 class="panel-title collapsed">Which medical plan is right for you?</h4>
 						</a>
 				</div>
 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 		<div class="panel-body">
 				<div markdown="1">
 
-Visit Your Benefits Resources™ (YBR)—PayPal’s personalized benefits portal and online enrollment system that makes enrolling fast and easy. The site is intuitive and simple to use. It has personalized information targeted to you, and tools to help you compare and choose your benefits.
 
-You can log in to YBR directly from work or home.
 
-* _**On the PayPal network?**_  Go directly to YBR ([@Work](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE) [![work](../assets/work.png)](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE)).
-*  _**Off the PayPal network?**_  Visit ybr.com/benefits/paypal ([Log In](http://www.ybr.com/benefits/paypal) [![log in](../assets/globe.png)](http://www.ybr.com/benefits/paypal)).
-*  _**New to the YBR site?**_ The first time you log in, you’ll need to follow the prompts to create a user ID and password. Click “Are you a new user?” and follow the prompts to create a user ID and password.
-*  _**Did you forget your YBR password?**_ If you’ve forgotten your user ID or password, click “Forgot User ID or Password?” to retrieve your user ID and reset your password.
+The PayPal medical plans offer comprehensive coverage and cover you at 100% for in-network preventive care. As you're deciding on the plan that's right for you, keep in mind these key considerations that can help you choose:
 
-You may also enroll over the phone by calling YBR Customer Service at [844-474-6641](tel:+1-844-474-6641). Customer Care Specialists are available Monday through Friday between 5:00 a.m. and 6:00 p.m., Pacific time. You'll need your password to enroll over the phone.
+* Consider your options using the [Medical Plan Cost Estimator](medicostestimator18/index.htm). In just a few short clicks, you can see which plan is better for you financially, from what you’ll pay out of your paycheck to what you’ll pay when accessing care.
+* How much health care did you use last year? How much do you think you'll need this year? Do you have a surgery planned? Having a baby? Think about your medical plan needs for the coming year.
+* Did you meet your deductible last year? Or did you pay more for coverage you didn't use?
+* If there's a deductible, you'll have to meet it before the plan pays benefits. How much does the plan pay versus how much you'll need to pay (your coinsurance), and how much could you have to pay in one year (out-of-pocket maximum)?
+* Must you use network providers to receive benefits? Does the plan cover out-of-network providers?
+* How much does the plan cost each pay period? See your [Employee Contributions](2018-employee-contributions.html).
 
 </div>
 </div>
 </div>
 </div>
+
 <div class="panel panel-default panel-accordion">
-				<div class="panel-heading" role="tab" id="headingThree">
+		<div class="panel-heading" role="tab" id="headingThree">
 						<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree"><i class="fa fa-angle-right fa-2x pull-left"></i>
-							<h4 class="panel-title collapsed">Enroll in PayPal’s 401(k) Savings Plan &mdash; Administered by Charles Schwab</h4>
+							<h4 class="panel-title collapsed">Compare your medical plan options</h4>
 						</a>
 				</div>
 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 		<div class="panel-body">
 				<div markdown="1">
 
+The charts below compare highlights of your medical plan options. For more detailed information, refer to the Health Plan Comparison Chart on Your Benefits ResourcesTM (YBR) ([@Work](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE) [![work](../assets/work.png)](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE) &#124; [Log In](http://www.ybr.com/benefits/paypal) [![log in](../assets/globe.png)](http://www.ybr.com/benefits/paypal)). See [Prescription Drug Benefits](prescription-drug-benefits.html) for your prescription drug costs under the different plans.
 
-You can enroll in [PayPal’s 401(k) Savings Plan](401k-savings-plan.html) on the Friday following your date of hire.
+## UnitedHealthcare plans ##
 
-Look for the link to the 401(k) Savings Plan on Your Benefits ResourcesTM (YBR) ([@Work](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE) [![work](../assets/work.png)](https://beplb01.sse.hewitt.com/sp/startSSO.ping?PartnerIdpId=https://sso.paypalcorp.com&TargetResource=https%3A%2F%2Fsso.hewitt.com%2Fybr%3FpageCd%3DYBR_PAGE) &#124; [Log In](http://www.ybr.com/benefits/paypal) [![log in](../assets/globe.png)](http://www.ybr.com/benefits/paypal)). It will take you directly to Schwab, PayPal’s 401(k) plan administrator, where you can enroll online and find more information about the plan.
+|                                            | $300 Deductible               | $300 Deductible               | CDHP with HSA                                                                  | CDHP with HSA                                                                  |
+|                                            | In-network                    | Out-of-network1               | In-network                                                                     | Out-of-network1                                                                |
+|--------------------------------------------|-------------------------------|-------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Annual deductible                          |||||
+| Individual                                 | $300                          | $500                          | $1,500                                                                         | $3,000                                                                         |
+| Family                                     | $900                          | $1,500                        | $3,000                                                                         | $5,000                                                                         |
+| Out-of-pocket maximum                      |                               |                               |                                                                                |                                                                                |
+| Individual                                 | $2,300                        | $3,500                        | $3,500                                                                         | $6,000                                                                         |
+| Family                                     | $4,900                        | $7,500                        | $7,000                                                                         | $12,000                                                                        |
+| Coinsurance (plan pays)                    | 90%                           | 70%                           | 90%                                                                            | 70%                                                                            |
+| Hospital (inpatient)                       | $250 copay; then 90% covered  | 70% covered2                  | 90% covered2                                                                   | 70% covered2                                                                   |
+| Emergency room3 (copay waived if admitted) | $100 copay; then 90% covered2 | $100 copay; then 90% covered2 | 90% covered2                                                                   | 90% covered2                                                                   |
+| Doctor office visits                       | $20 copay                     | 70% covered2                  | 90% covered2                                                                   | 70% covered2                                                                   |
+| Virtual visit                              | $10 copay                     | $10 copay                     | $40 consult fee subject to the deductible; once deductible is met, 90% covered | $40 consult fee subject to the deductible; once deductible is met, 90% covered |
+| Specialist office visits                   | $35 copay                     | 70% covered2                  | 90% covered2                                                                   | 70% covered2                                                                   |
+| Annual physical exams                      | 100% covered                  | 70% covered2                  | 100% covered                                                                   | 70% covered2                                                                   |
+| Diagnostic X-ray/lab                       | 90% covered2                  | 70% covered2                  | 90% covered2                                                                   | 70% covered2                                                                   |
 
-You can also contact Schwab by calling the Schwab Plan Hotline at [800-724-7526](tel:+1-800-724-7526).
-</div>
-</div>
-</div>
-</div>
-
-<div class="panel panel-default panel-accordion">
-				<div class="panel-heading" role="tab" id="headingFour">
-						<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour"><i class="fa fa-angle-right fa-2x pull-left"></i>
-							<h4 class="panel-title collapsed">After you enroll</h4>
-						</a>
-				</div>
-<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-		<div class="panel-body">
-				<div markdown="1">
-
-
-You'll receive a confirmation statement that lists your benefit choices for 2018. Be sure to review it and contact YBR Customer Service at [844-474-6641](tel:+1-844-474-6641) if anything is incorrect.
-
-Payroll deductions for your share of the [cost of your benefits](2018-employee-contributions.html) will begin with the first paycheck following your enrollment.
-
-Please note: The elections you make during your new hire enrollment will remain in effect until December 31, unless you have an IRS-defined qualified life event (see [Changing your benefits](changing-your-benefits.html)) or become ineligible for benefits. Outside of these qualified events, your next opportunity to make changes to your benefits will be during our benefits Annual Enrollment period, which is held in the fall.
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="panel panel-default panel-accordion">
-				<div class="panel-heading" role="tab" id="headingFive">
-						<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive"><i class="fa fa-angle-right fa-2x pull-left"></i>
-							<h4 class="panel-title collapsed">ID cards</h4>
-						</a>
-				</div>
-<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-		<div class="panel-body">
-				<div markdown="1">
-
-* The PayPal HMO health plans will issue you a new ID card if you are new to the plan.
-* If you participate in one of the UnitedHealthcare plans, you'll receive a separate CVS/caremark pharmacy prescription ID card.
-* The Delta Dental plan will issue two ID cards per plan participant.
-* ID cards are not issued for the vision plan.
 
 </div>
 </div>
