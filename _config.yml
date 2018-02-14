@@ -1,6 +1,6 @@
 ---
-title: My Portfolio
-timezone: UTC
+title: TESTSITE
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -9,7 +9,11 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
+<<<<<<< HEAD
 description: 'This is a description'
+=======
+description: This is a description.
+>>>>>>> d09d89ee91ce08ac6e824b6be69c547a7052a2a7
 baseurl: 
 url: http://yourdomain.com
 markdown: kramdown
